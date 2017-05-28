@@ -123,3 +123,6 @@ color: white; font-size: 20px; font-family: 'Cookie', cursive; }
 #span3{
 	color: red
 }
+input:hover{
+    cursor: pointer;
+}
