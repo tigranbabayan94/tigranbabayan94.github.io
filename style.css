@@ -1,0 +1,125 @@
+body{background-image: url(http://cdn30.us1.fansshare.com/image/backgroundforpictures/background-1891203444.jpg);
+}	
+#container{
+	margin: 0 auto;
+	min-width: 1000px;
+	width: 80%;
+}
+div #profile1:hover{background-color: black;
+color: white; font-size: 20px; font-family: 'Cookie', cursive; font-weight: bold;
+}
+.prof{
+	text-align: justify; text-align: center;
+}
+.work{
+text-align:center; 
+}
+.work p{
+	line-height: 10px;
+}
+.Accounting{
+	font-weight: bold;
+}
+#container{ font-family: 'Crimson Text', serif;
+}
+
+#educ1 tr td{ 
+	border: 1px solid ; 
+}
+#educ1 tr th{ 
+	border: 1px solid ; 
+}
+.heading{
+	color: black; 
+	font-weight: bold;
+}
+.work2{
+	min-width: 550px;
+    max-width: 550px;
+    margin: 0 auto;
+}
+.certeficate p{
+	line-height: 7px; }
+.acca{
+	font-weight: bold;
+}
+.exam{
+	font-weight: bold; color: red;
+}
+#exam1{
+	line-height: 30px; font-size: 20px
+}
+.Top{
+	font-weight: bold;
+}
+.acca_table tr td{ 
+	border: 1px solid ; 
+}
+.acca_table tr th{ 
+	border: 1px solid ; 
+}
+.p4{
+	font-weight: bold; font-style: italic;
+}
+#jobrelated tr td{ 
+	border: 1px solid ; 
+}
+#jobrelated tr th{ 
+	border: 1px solid ; 
+}
+#computer tr td{ 
+	border: 1px solid ; 
+}
+#computer tr th{ 
+	border: 1px solid ; 
+}
+#language tr td{ 
+	border: 1px solid ; 
+}
+#language tr th{ 
+	border: 1px solid ; 
+}
+#transcript{
+	font-weight: bold; font-style: italic;
+}
+div .work3:hover{background-color: black;
+color: white; font-size: 20px;}
+#tennis{
+		height: 100px; 
+}
+#football{
+		height: 100px; }
+#swiming{
+		height: 150px; }
+#cycling{
+		height: 120px; }
+#videogame{
+		height: 130px; }
+.tennis1{
+	font-weight: bold;
+}
+.football1{
+	font-weight: bold;
+}
+.swiming1{
+	font-weight: bold;
+}
+.cycling1{
+	font-weight: bold;
+}
+.videogame1{
+	font-weight: bold;
+}
+div .links:hover{background-color: black;
+color: white; font-size: 20px; font-family: 'Cookie', cursive; }
+#firstpage{
+	font-family: 'Cookie', cursive;}
+#span1{
+	color: red
+}
+#span2{
+	color: red
+}	
+#span3{
+	color: red
+}
